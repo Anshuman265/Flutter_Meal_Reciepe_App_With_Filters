@@ -2,8 +2,14 @@
 
 A Flutter project in which the meals are categorized and can be filtered with the help of 5 filters.
 
-## Running the app
+## Features:
+1. Navigation Pages
+2. Side Bar Drawer
+3. Fliters
+4. Categories
 
-To run the app - `flutter run`
+### Running the app
+
+Command to run the app - `flutter run`
 
 
